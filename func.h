@@ -1,4 +1,5 @@
 #ifndef FUNC_H
 #define FUNC_H
+void drawRectangle(int height, int width);
 
 #endif
